@@ -1,0 +1,40 @@
+https://github.com/Travelport/travelport-uapi-tutorial/blob/gh-pages/lesson_1-1.md
+
+
+Repo
+https://github.com/Travelport/travelport-uapi-tutorial
+
+Site
+
+Demo
+https://demo.travelportuniversalapi.com/Home#UR
+
+
+https://support.travelport.com/webhelp/uapi/uAPI.htm
+
+
+First Get a PCC or CIDB
+
+From Galileo GDS or Apollo etc.
+Get one here
+https://www.travelopro.com/contact.php
+
+Where do Travel Agencies buy tickets?
+
+Travel agencies typically source their tickets and travel inventory from various suppliers, and the specific sources can vary based on the agency's business model, partnerships, and the type of travel services they offer. Here are some common sources from which travel agencies purchase tickets:
+
+Global Distribution Systems (GDS): GDS platforms, such as Amadeus, Sabre, and Travelport (which includes Apollo, Galileo, and Worldspan), are widely used by travel agencies. GDS systems aggregate and distribute information on flights, hotels, car rentals, and other travel services. Travel agents can use GDS to check availability, compare prices, and make bookings.
+
+Airlines Directly: Some travel agencies establish direct relationships with airlines and purchase tickets directly from them. This can allow for more flexibility and negotiation in terms of pricing and ticket availability.
+
+Consolidators: Consolidators are companies that purchase a large volume of tickets from airlines and sell them to travel agencies at discounted rates. Travel agencies may work with consolidators to access lower-cost tickets and offer competitive prices to their customers.
+
+Wholesalers: Similar to consolidators, wholesalers purchase travel inventory in bulk and sell it to travel agencies. This can include packages that combine flights, accommodations, and other services.
+
+Online Travel Agencies (OTAs): Some travel agencies operate primarily as online platforms and source their inventory from various providers, including GDS, airlines, and other travel suppliers.
+
+Tour Operators: Travel agencies that specialize in offering package tours may work with tour operators who organize and sell comprehensive travel packages. These packages can include flights, accommodations, and guided tours.
+
+Hotel and Accommodation Providers: In addition to flights, travel agencies may source accommodations directly from hotels or through online platforms that specialize in providing hotel inventory.
+
+It's important to note that many travel agencies use a combination of these sources to provide a diverse range of options to their customers. The choice of sources often depends on the agency's business strategy, the types of travel services they specialize in, and the agreements they have with various suppliers.
